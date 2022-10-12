@@ -1,0 +1,4 @@
+name=Jeong jong gyu
+data=9,1,5,2,8,13,26,35,1
+
+
